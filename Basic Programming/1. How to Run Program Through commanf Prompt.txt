@@ -1,0 +1,10 @@
+To run programs through cmd prompt, first write your program in a notepad file and save it with .java extension
+
+The name of class and the name of the notepad file should be the same. 
+
+then open the cmd prompt from the directry of the folder in which the program is. (just type cmd in the path of the folder)
+
+compile the program using the command " javac [programName].java
+wait for the compiler to compiler the programn and if there is any error, rectify it.
+
+after compilation, run the interpreter with the command " java [programName] "
